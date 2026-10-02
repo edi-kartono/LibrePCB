@@ -1,4 +1,4 @@
 git+https://github.com/LibrePCB/funq.git@5a3981203b018afca4631881ddccabad8dad8c6c#egg=funq-server&subdirectory=server
 git+https://github.com/LibrePCB/funq.git@5a3981203b018afca4631881ddccabad8dad8c6c#egg=funq&subdirectory=client
-pytest==6.2.5
+pytest==9.0.3
 pytest-rerunfailures==10.2
